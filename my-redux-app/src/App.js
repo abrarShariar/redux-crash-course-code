@@ -6,7 +6,7 @@ import PostForm from './components/PostForm';
 // redux stuffs
 import {Provider} from 'react-redux';
 
-import store from '../store';
+import store from './store';
 
 class App extends Component {
   render() {
